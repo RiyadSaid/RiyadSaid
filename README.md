@@ -16,11 +16,3 @@ This is a website I like visiting: https://www.youtube.com
 Hi [^1]
 
 [^1] Bye
-
-| iMac          | G4            |
-| ------------- |:-------------:|
-| Processor Type      | PowerPC 7445 (G4) |
-| Processor Speed      | 1.0 GHz      |
-| Storage | SDD 120 GB|
-| Memory | 128 MB      |
-| GPU | Nvidia GeForce 2 MX      |
