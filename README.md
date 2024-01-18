@@ -8,7 +8,6 @@ This is a picture of a wallet I made earlier this year
 # Very Big
 ## Pretty Big
 ### Big
-Average
 #### Small
 ##### Pretty Small
 ###### Very Small
