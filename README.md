@@ -8,12 +8,12 @@ This is a website I like visiting: https://www.youtube.com
 
 # 1. ~Very Big~
 ## 1. Pretty Big
-..* Whale
+⋅⋅* Whale
 ### 2. Big
-..* Elephant
+⋅⋅* Elephant
 #### 3. Small
-..* Mouse
+⋅⋅* Mouse
 ##### 4. Pretty Small
-..* Fly
+⋅⋅* Fly
 ###### 5. Very Small
-..* Ant
+⋅⋅* Ant
