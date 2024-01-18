@@ -8,12 +8,19 @@ This is a website I like visiting: https://www.youtube.com
 
 # 1. ~Very Big~
 ## 1. Pretty Big
-⋅⋅* Whale
 ### 2. Big
-⋅⋅* Elephant
 #### 3. Small
-⋅⋅* Mouse
 ##### 4. Pretty Small
-⋅⋅* Fly
 ###### 5. Very Small
-⋅⋅* Ant
+
+Hi [^1]
+
+[^1] Bye
+
+| iMac          | G4            |
+| ------------- |:-------------:|
+| Processor Type      | PowerPC 7445 (G4) |
+| Processor Speed      | 1.0 GHz      |
+| Storage | SDD 120 GB|
+| Memory | 128 MB      |
+| GPU | Nvidia GeForce 2 MX      |
