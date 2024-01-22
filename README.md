@@ -15,4 +15,4 @@ This is a website I like visiting: https://www.youtube.com
 
 Hi [^1]
 
-[^1] Bye
+[^1]: Bye
